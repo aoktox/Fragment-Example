@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<id.prasetiyo.myfragment.view.SlidingRelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_vertical|center_horizontal"
+    android:background="#2924ba">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Details"
+        android:textSize="50sp"
+        android:id="@+id/textView" />
+</id.prasetiyo.myfragment.view.SlidingRelativeLayout>
